@@ -7,7 +7,7 @@ https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%
 
 [![Build Status](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)
 
-[![Build](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)]
+![Build](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
