@@ -5,7 +5,7 @@ a pocket calculator.
 
 https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master
 
-[![Build Status](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)
+![Build Status](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)
 
 ![Build](https://dev.azure.com/heimnico/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/nh-37rtm.calculator?branchName=master)
 
